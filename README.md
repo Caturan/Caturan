@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Caturan
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
 <!---
